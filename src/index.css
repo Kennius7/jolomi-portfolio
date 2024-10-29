@@ -66,8 +66,12 @@
 }
 
 .main-bg-2 {
-  background: linear-gradient(0deg, #6dc8b7 -5.91%, #aadcd3 111.58%);
+  background: linear-gradient(0deg, #022425 50.55%, #00f6ff 80.58%);
 }
+
+/* .main-bg-3 {
+  background: linear-gradient(0deg, #041e46 5.91%, #00f6ff 50.55%);
+} */
 
 .text-grad {
   background: linear-gradient(
@@ -261,7 +265,7 @@ rgba(151, 212, 201, 0.6) */
 
 
 .contact {
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+  background: linear-gradient(90.21deg, #8400ff -5.91%, #00f6ff 111.58%);
 }
 
 .contact form input, .contact form textarea {
