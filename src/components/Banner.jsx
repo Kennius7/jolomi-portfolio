@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import headerImg from "../assets/img/steve2.png";
+import headerImg from "../assets/img/jolomi.png";
 import WhatsappButton from "./WhatsappButton";
 import { AppContext } from "./context/AppContext";
 
@@ -14,7 +14,7 @@ const Banner = () => {
   const [isDeleting, setIsDeleting] = useState(false);
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
-  const toRotate = [" Public Health Professional", " Health Educator", " Public Health Consultant", " Health Insurance Relationship Manager"];
+  const toRotate = [" Computer Scientist", " Data Analyst"];
   const period = 2000;
 
   useEffect(() => {

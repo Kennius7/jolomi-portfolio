@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 import { useContext } from "react";
 import DownloadButton from "./DownloadButton";
 import { AppContext } from "./context/AppContext";
-import stephenCVLink from "../assets/docs/stephen-ojeogwu-CV.pdf";
+import CVLink from "../assets/docs/jolomi-CV-2024.pdf";
 
 
 
@@ -66,7 +67,7 @@ const AboutMe = () => {
             </div>
 
             <div className="w-full md:mt-6 sm:mt-4 mt-2">
-              <DownloadButton resumeLink={stephenCVLink} />
+              <DownloadButton resumeLink={CVLink} />
             </div>
 
           </div>

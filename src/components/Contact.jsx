@@ -18,7 +18,7 @@ const Contact = () => {
     phone: '',
     subject: '',
     message: '',
-    receiverEmail: "ogbogukenny@yahoo.com"
+    receiverEmail: "jolomistephen01@gmail.com"
   }
   const [formDetails, setFormDetails] = useState(formInitialDetails);
   const [buttonText, setButtonText] = useState("Send Message");
