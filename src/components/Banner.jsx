@@ -88,7 +88,7 @@ const Banner = () => {
               the financial industry&apos;s operational dynamics and the importance of customer satisfaction.
             </p>
 
-            <WhatsappButton buttonText="Chat me on WhatsApp" phoneNumber="08134063059" />
+            <WhatsappButton buttonText="Chat me on WhatsApp" phoneNumber="07059640313" />
 
           </div>
 
