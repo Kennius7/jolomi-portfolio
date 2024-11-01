@@ -29,10 +29,9 @@ function Footer() {
                             <p className={`w-full text-gray-900 leading-[21px] xs:leading-[22px] 
                                 sm:leading-[30px] md:leading-[25px] text-[14px] xs:text-[13px] sm:text-[20px] 
                                 md:text-[14px]`}>
-                                Contact me for all matters related to community health 
-                                projects and health insurance engagements. Whether you need assistance 
-                                with program development, implementation, or navigating insurance options, I&apos;m 
-                                here to provide expert guidance and support for your needs.
+                                For any inquiries or needs related to data analysis, banking, or problem-solving, 
+                                please reach out to me. I am here to provide expert assistance and support 
+                                in these areas.
                             </p>
                         </div>
 
