@@ -29,8 +29,8 @@ const Skills = () => {
             </h2>
             <p className="text-start font-semibold md:text-[22px] sm:text-[20px] xs:text-[15px] text-[14px] 
               font-poppins tracking-wider text-black">
-              These are some of the skills and competencies I have acquired over the years, ranging from 
-              consultation capabilities to public speaking and others.
+              Throughout my journey, I have developed a diverse set of skills and competencies that have 
+              shaped my professional and personal growth. Here are come of the key abilities I have acquired.
             </p>
 
           </div>

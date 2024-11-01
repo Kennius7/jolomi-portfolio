@@ -64,7 +64,7 @@ function Footer() {
                                         <img src={phoneIcon} alt="phone" className="w-[15px] h-[15px] 
                                         ss:w-[20px] ss:h-[20px] bg-black/20 rounded-[50%]"/>
                                         <span className="md:text-[15px] sm:text-[20px] xs:text-[13px] 
-                                        text-[14px] pl-1">+2348134063059</span>
+                                        text-[14px] pl-1">+2347059640313</span>
                                     </a>
                                 </li>
                                 <li className="sm:mb-2 ss:mb-2">
@@ -73,7 +73,7 @@ function Footer() {
                                         <img src={emailIcon} alt="email" className="w-[15px] 
                                         h-[15px] ss:w-[20px] ss:h-[20px] bg-black/20 rounded-[50%]"/>
                                         <span className={`md:text-[15px] sm:text-[20px] xs:text-[13px] 
-                                        text-[15px] tracking-[-1.5px] xs:tracking-[0px] pl-1`}>stephenojeogwu01@gmail.com</span>
+                                        text-[15px] tracking-[-1.5px] xs:tracking-[0px] pl-1`}>jolomistephen01@gmail.com</span>
                                     </a>
                                 </li>
 
@@ -140,7 +140,7 @@ function Footer() {
                         -mt-1 xs:mt-6 sm:mt-4 md:mt-1">
                         <div className="w-[300px] xs:w-[400px] sm:w-[600px] text-gray-900 text-start 
                             xs:text-center text-[13px] xs:text-[14px] sm:text-[22px] md:text-[15px]">
-                            Copyright &copy; All rights reserved | Explore Stephen.
+                            Copyright &copy; All rights reserved | Explore Jolomi.
                         </div>
                     </div>
                 </div>
